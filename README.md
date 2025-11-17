@@ -1,6 +1,10 @@
 # Comparing-Classifiers in Bank-FDR-Subscription-Project
 Prediction of whether a customer will Subscribe to Bank FDR or not
 
+## Summary
+The project is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The goal is to predict if the client will subscribe a term deposit (variable y). The marketing campaigns were based on phone calls. The target feature is bank term deposit would be ('yes') or not ('no') subscribed. 
+I've compared the performance of the classifiers, namely K Nearest Neighbor, Logistic Regression, Decision Trees, and Support Vector Machines.
+
 ### Approach 
 1. Read the file bank-additional-full.csv
 2. Examine the data description from bank-additional-names.txt
