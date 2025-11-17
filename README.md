@@ -39,3 +39,5 @@ Higher the Age, the more likely it is for the customer to subscribe to a term de
 ## Recommended Choice for Prediction:
 K-Nearest Neighbors (KNN) is the most balanced classifier here, with:
 High accuracy (90.4%) Best F1 for the minority class (0.54) Strong recall (0.49), meaning fewer false negatives.
+
+<img width="928" height="497" alt="image" src="https://github.com/user-attachments/assets/b5a1c8e4-a941-475f-a4ac-4b99b5d7a8f1" />
